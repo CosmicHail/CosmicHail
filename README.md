@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I’m CosmicHail!
+---
+I’m a graphic design student passionate about spreading joy and creativity through my art. I constantly strive to grow and improve, welcoming feedback that helps me develop both personally and professionally.
 
-<!--
-**CosmicHail/CosmicHail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I value honesty and appreciate direct communication, even when the truth is hard to hear. In relationships, I am loyal, caring, and empathetic, always seeking to support those close to me.
 
-Here are some ideas to get you started:
+I love connecting with others—especially when communication is clear and straightforward!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="right">
+  <a href='https://discord.gg/wWEfXeu6jW' target='_blank'>
+    <img alt="Discord" src="https://img.shields.io/discord/1196879060173852702?style=social&logo=discord&label=Support%20Server">
+  </a>
+</p>
